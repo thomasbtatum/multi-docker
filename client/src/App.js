@@ -21,7 +21,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fib Calculator
+            Fibanacci Calculator
           </a>
         
         <Link to="/">Home</Link>
